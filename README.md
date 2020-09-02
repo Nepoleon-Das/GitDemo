@@ -1,3 +1,4 @@
-# GitDemo
-This is for testing Git
-Editing this Demo file
+# Machine Learning_Projects
+This repository consist of notes for:
+- Scikit Learn & Algorithms
+- Projects
