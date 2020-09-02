@@ -1,3 +1,0 @@
-This is my first Git File
-
-Now we are ready to do some interesting stuffs/
